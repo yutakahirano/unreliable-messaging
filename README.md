@@ -1,1 +1,1 @@
-See [explainer.md].
+See [explainer.md](explainer.md).
